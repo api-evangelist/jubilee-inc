@@ -31,6 +31,9 @@ description: Jubilee Inc (Jubilee Media) is a Los Angeles-based digital media pr
   company and added to the API Evangelist network; the company publishes no public API or developer
   platform at this time, so this profile carries identity and domain-security signal only.
 url: https://raw.githubusercontent.com/api-evangelist/jubilee-inc/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Surfaced as a 500 Global portfolio company and added to the API Evangelist network; the company publishes no public API or developer platform at this time, so this profile carries identity and domain-"
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
