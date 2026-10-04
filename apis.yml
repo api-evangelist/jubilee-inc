@@ -22,7 +22,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/jubilee-inc.png
-name: Jubilee Inc
+name: Jubilee
 description: Jubilee Inc (Jubilee Media) is a Los Angeles-based digital media production company that
   creates discussion-based and dating video shows designed to provoke thoughtful conversation and
   foster human connection across social and ideological divides. Its flagship YouTube programs include
@@ -49,7 +49,7 @@ tags:
 - Video
 - Entertainment
 - Content Production
-- Social-Media
+- Social Media
 - YouTube
 tags_raw:
 - Company
@@ -59,6 +59,7 @@ tags_raw:
 - Content Production
 - Social Media
 - YouTube
+- Social-Media
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -75,3 +76,4 @@ x-enrichment:
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+x-legal-name: Jubilee Inc
